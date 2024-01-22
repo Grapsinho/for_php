@@ -1,0 +1,17 @@
+{
+  "name": "stopito/for_php",
+  "authors": [
+    {
+      "name": "Giorgi Giguashvili",
+      "email": "giguashviligiorgi50@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "classes\\": "./classes",
+      "traits\\": "./traits",
+      "routes\\": "./Routes"
+    }
+  }
+}
